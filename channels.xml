@@ -7,4 +7,16 @@
 <title>UK Sky Sports 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5705.ts</link>
 <thumbnail>imagehere</thumbnail>
+<item>
+<title>UK Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5704.ts</link>
+<thumbnail>imagehere</thumbnail>
+<item>
+<title>UK Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5703.ts</link>
+<thumbnail>imagehere</thumbnail>
+<item>
+<title>UK Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5702.ts</link>
+<thumbnail>imagehere</thumbnail>
 </streamingInfos>
