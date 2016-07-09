@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][B]Welcome to the Evolution Playlist[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]In Partnership with Exabyte and Tonks[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]Do Not Share This List[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Compiled by Rob Alexander[/B][/COLOR]
+#EXTINF:-1,[COLOR red][B]Latest Updated: Saturday 9th July 2016 08:51 BST[/B][/COLOR]
+
+------------------------------
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="BTSport1.uk" tvg-name="" group-title="UK Sports",BT Sports 1 (UK)
+http://premium.exabytetv.info/xtc/tuytjghv/665/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="BTSport2.uk" tvg-name="" group-title="UK Sports",BT Sports 2 HD (UK)
+http://premium.exabytetv.info/xtc/tuytjghv/666/exabytetv.m3u8
+
+#EXTINF:-1 group-title="UK Sports" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",BT SPORTS EUROPE
+http://149.202.85.84:8080/beETy-U/counter1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports" ,BT/ESPN
+http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Horse Racing",Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Horse Racing",Racing UK (IPTV Pro)
+http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
+
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",AT THE RACES (IPTV Pro)
+http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports1.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sports 1 V1
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sport 2 V1
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports3.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sports 3 V1
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sports 4 V1
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sports 5 V1
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Sky Sports F1 V1
+http://149.202.207.8:8080/syjkiyf00ne/counter1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySports1.uk" tvg-name="" group-title="UK Sports",Sky Sport 1 HD
+http://premium.exabytetv.info/xtc/tuytjghv/643/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySports2.uk" tvg-name="" group-title="UK Sports",Sky Sport 2 HD
+http://premium.exabytetv.info/xtc/tuytjghv/644/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySports3.uk" tvg-name="" group-title="UK Sports",Sky Sport 3 HD
+http://premium.exabytetv.info/xtc/tuytjghv/645/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySports4.uk" tvg-name="" group-title="UK Sports",Sky Sport 4 HD
+http://premium.exabytetv.info/xtc/tuytjghv/646/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySports5.uk" tvg-name="" group-title="UK Sports",Sky Sport 5 HD
+http://premium.exabytetv.info/xtc/tuytjghv/647/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="SkySportsF1.uk" tvg-name="" group-title="UK Sports",Sky Sport F1 HD
+http://premium.exabytetv.info/xtc/tuytjghv/648/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="" tvg-name="" group-title="UK Sports",Eurosport 1 (UK)
+http://premium.exabytetv.info/xtc/tuytjghv/674/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="" tvg-name="" group-title="UK Sports",Eurosport 2 (UK)
+http://premium.exabytetv.info/xtc/tuytjghv/673/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="" tvg-name="" group-title="UK Sports",Eurosport 1 (UK)
+http://orbital.exabytetv.info:2500/live/hannes/hannes/1872.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="" tvg-name="" group-title="UK Sports",Eurosport 2 (UK)
+http://orbital.exabytetv.info:2500/live/hannes/hannes/3318.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="USA Sports",Canal F1 Spanish
+http://premium.exabytetv.info/total2/wwwwwws/520/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" tvg-id="" tvg-name="" group-title="USA Sports",Fox Sports 1 USA
+http://premium.exabytetv.info/xtc/tuytjghv/664/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="UK Sports",Box Nation
+http://premium.exabytetv.info/xtc/tuytjghv/680/exabytetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Disney Channel (English)
+http://83.218.223.86/live/smil:DisneyEn.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Disney Junior (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/433/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Nickelodeon (English)
+http://83.218.223.86/live/smil:NickelodeonEn.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Boomerang (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/428/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Discovery Childrens TV (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/431/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Nick Toons (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/438/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",Nick Junior (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/436/exabytetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg" group-title="Childrens TV",CBeebies (Spanish)
+http://premium.exabytetv.info/total2/tuytjghv/430/exabytetv.m3u8
+
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 1-V1 (IPTV Pro)
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 2-V1 (IPTV Pro)
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 2-V3 (IPTV Pro)
+rtmp://lb.miplayer.net:1935/goLive/ibrodtv22_j5p1mted
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 3-V1 (IPTV Pro)
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 4-V2 (IPTV Pro)
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 5-V1 (IPTV Pro)
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORTS 5-V3 (IPTV Pro)
+rtmp://lb.miplayer.net:1935/goLive/ibrodtv24_f84rdmkk
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORT F1-V1 (IPTV Pro)
+http://149.202.207.8:8080/syjkiyf00ne/counter1/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",SKY SPORT F1-V3 (IPTV Pro)
+rtmp://lb.miplayer.net:1935/goLive/ibrodtv21_6vhudlq8
+
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",BT SPORTS 1-V1 (IPTV Pro)
+http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",BT SPORTS 2-v2 (IPTV Pro)
+http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+#EXTINF:-1 group-title="UK Sport" tvg-logo="http://cdn.techpp.com/wp-content/uploads/2012/01/android-1.jpg",BT SPORTS EUROPE (IPTV Pro)
+http://149.202.85.84:8080/beETy-U/counter1/index.m3u8
